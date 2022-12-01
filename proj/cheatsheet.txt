@@ -1,0 +1,6 @@
+!!! sql injection;
+
+use lemail = hello 'or 1=1;drop table asdf;#
+
+lpass = any
+
